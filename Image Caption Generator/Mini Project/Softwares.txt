@@ -1,0 +1,8 @@
+You need to have python and Jupyter Notebook on your system to work on the project
+
+From the below link you can install the python :
+https://www.python.org/downloads/
+
+From the below link you can install the Jupyter Notebook:
+https://jupyter.org/install
+
